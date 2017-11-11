@@ -2,6 +2,9 @@
   height: 400px;
   width: 550px;
 }
+button {
+  background-color: #a9a9a9;
+}
 
 #txt, #mName{
 font-family: 'Gloria Hallelujah', cursive;
